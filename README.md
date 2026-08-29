@@ -82,9 +82,6 @@ An AI-powered, gesture-controlled puzzle photobooth built with **Python**, **Ope
 
 Completed puzzles are saved automatically to the `saved_puzzles/` folder as timestamped PNG files (e.g. `puzzle_20260828_143022.png`).
 
-## 🙏 Acknowledgements
-
-Visual style inspired by AR-filter-style photobooth concepts popularized on Instagram.
 
 ## 📄 License
 
